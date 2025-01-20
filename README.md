@@ -67,11 +67,11 @@ The app is deployed on GitHub Pages. You can access it here.
 
 ### Clone the repository:
 
-* git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+* git clone (https://github.com/vmendez2000/belly-button-challenge)
 
 ### Navigate to the project directory:
 
-* cd YOUR_REPOSITORY
+* cd belly-button-challenge
 
 ### Open index.html in a browser.
 
