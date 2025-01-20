@@ -90,7 +90,10 @@ The app is deployed on GitHub Pages. You can access it here.
 
 * Visualization libraries: D3.js and Plotly.js.
 
+## References
+
+### Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
+
 ## Resources
 
-### https://robdunnlab.com/projects/belly-button-biodiversity/
 ### I used ChatGPT to help complete this Challenge
